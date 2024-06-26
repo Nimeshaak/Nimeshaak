@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### I'm Nimesha Warnakulasooriya,
+##### I'm Nimesha Warnakulasooriya,
 
 - 💼 **A passionate frontend-focused web developer and UI/UX designer**
 - 🎓 **Final year computer science student**
